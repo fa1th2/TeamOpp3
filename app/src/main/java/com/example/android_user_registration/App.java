@@ -3,10 +3,10 @@ package com.example.android_user_registration;
 import android.app.Application;
 
 import com.parse.Parse;
-
+ /*
 public class App extends Application {
 
-    @Override
+  @Override
     public void onCreate() {
         super.onCreate();
 
@@ -19,3 +19,4 @@ public class App extends Application {
 
     }
 }
+*/
