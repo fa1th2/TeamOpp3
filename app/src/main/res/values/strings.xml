@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">android_user_registration</string>
-
+    <string name="app_name">TeamOpp</string>
 
     <!--  <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string> -->
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
@@ -12,4 +11,5 @@
 
 
 </resources>
+
 

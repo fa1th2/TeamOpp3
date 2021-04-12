@@ -25,6 +25,7 @@
       </ParserOptions>
     </ParserSettings>
     <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" addPageHeader="false" addAnchorLinks="false" anchorLinksWrapText="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false" defaultUrlTitle="false" migratedPlantUml="true" migratedAnchorLinks="true" plantUmlConversion="0">
+
       <GeneratorProvider>
         <provider providerId="com.vladsch.md.nav.editor.text.html.generator" providerName="Unmodified HTML Generator" />
       </GeneratorProvider>
@@ -32,6 +33,7 @@
       <headerBottom />
       <bodyTop />
       <bodyBottom />
+
       <fencedCodeConversions>
         <option name="c4plantuml" value="NONE" />
         <option name="ditaa" value="NONE" />
@@ -49,6 +51,7 @@
         <option name="vegalite" value="NONE" />
         <option name="wavedrom" value="NONE" />
       </fencedCodeConversions>
+
     </HtmlSettings>
     <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
       <StylesheetProvider>
@@ -60,3 +63,4 @@
     </CssSettings>
   </component>
 </project>
+
