@@ -1,8 +1,15 @@
 <resources>
     <string name="app_name">TeamOpp</string>
 
-    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string>
-    <string name="back4app_app_id" translatable="false"><!--Your app id here--></string>
-    <string name="back4app_client_key" translatable="false"><!--Your client key here--></string>
-<!-- delete this comment -->
+    <!--  <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string> -->
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- <string name="back4app_app_id" translatable="false">Your app id here </string> -->
+    <string name="back4app_app_id">APP_ID</string>
+
+    <!-- <string name="back4app_client_key" translatable="false"> Your client key here </string> -->
+    <string name="back4app_client_key">CLIENT_KEY</string>
+
+
 </resources>
+
+
